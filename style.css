@@ -86,7 +86,7 @@ header .navbar a:hover {
 }
 
 .home {
-    background: url(./images/home-bg.jpg) no-repeat;
+    background: url(home-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-position: fixed;
@@ -124,7 +124,7 @@ header .navbar a:hover {
 }
 
 .prevent {
-    background: url(./images/background-img.jpg) no-repeat;
+    background: url(background-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-position: fixed;
@@ -162,7 +162,7 @@ header .navbar a:hover {
 }
 
 .symptoms {
-    background: url(./images/background-img.jpg) no-repeat;
+    background: url(background-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-position: fixed;
@@ -197,7 +197,7 @@ header .navbar a:hover {
 }
 
 .precautions {
-    background: url(./images/background-img.jpg) no-repeat;
+    background: url(background-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-position: fixed;
@@ -252,7 +252,7 @@ header .navbar a:hover {
 }
 
 .doctor {
-    background: url(./images/background-img.jpg) no-repeat;
+    background: url(background-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-position: fixed;
